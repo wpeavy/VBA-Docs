@@ -13,7 +13,7 @@ If you have created a control using the **ontrol Toolbox** and you would like th
 
 1. In the Forms Designer, right-click the control you want to bind to a field and then click **properties** on the shortcut menu.
 
-2. On the **alue** tab, click **Choose Field**, point to a field set, and then click the field to which you want to bind the control. If you would like to bind the control to a new field that you create, click **w**. In the **Field** box, type the name of your new field in the **Name**: area. Click ** ** in the **New Field** box.
+2. On the **Value** tab, click **Choose Field**, point to a field set, and then click the field to which you want to bind the control. If you would like to bind the control to a new field that you create, click **w**. In the **Field** box, type the name of your new field in the **Name**: area. Click ** ** in the **New Field** box.
 
 3. Click **K** in the **Properties** box.
 
